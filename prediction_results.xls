@@ -1,0 +1,18 @@
+Image Path,Prediction,Confidence
+C:/Users/lavan/Downloads/dataset/test/Non Oil Spill/No_Oil_Spill00903.jpg,Non-Oil Spill,0.8147662431001663
+C:/Users/lavan/Downloads/dataset/test/Non Oil Spill/No_Oil_Spill00905.jpg,Non-Oil Spill,0.9984379414236173
+C:/Users/lavan/Downloads/dataset/test/Non Oil Spill/No_Oil_Spill00910.jpg,Oil Spill,0.93486947
+C:/Users/lavan/Downloads/dataset/test/Oil Spill/OilSpill_00827.jpg,Oil Spill,0.984051
+C:/Users/lavan/Downloads/dataset/test/Oil Spill/OilSpill_00826.jpg,Non-Oil Spill,0.7117450833320618
+C:/Users/lavan/Downloads/dataset/test/Oil Spill/OilSpill_00829.jpg,Oil Spill,0.96837354
+C:/Users/lavan/Downloads/dataset/test/Non Oil Spill/No_Oil_Spill00912.jpg,Non-Oil Spill,0.9112049490213394
+C:/Users/lavan/Downloads/dataset/test/Non Oil Spill/No_Oil_Spill00907.jpg,Non-Oil Spill,0.9424096122384071
+C:/Users/lavan/Downloads/dataset/test/Non Oil Spill/No_Oil_Spill00911.jpg,Non-Oil Spill,0.9651798456907272
+C:/Users/lavan/Downloads/dataset/test/Non Oil Spill/No_Oil_Spill00906.jpg,Non-Oil Spill,0.9136405140161514
+C:/Users/lavan/Downloads/dataset/test/Oil Spill/OilSpill_00829.jpg,Oil Spill,0.96837354
+C:/Users/lavan/Downloads/dataset/test/Non Oil Spill/No_Oil_Spill00906.jpg,Non-Oil Spill,0.9136405140161514
+C:/Users/lavan/Downloads/dataset/test/Non Oil Spill/No_Oil_Spill00912.jpg,Non-Oil Spill,0.9112049490213394
+C:/Users/lavan/Downloads/dataset/test/Oil Spill/OilSpill_00838.jpg,Oil Spill,0.6591302
+C:/Users/lavan/Downloads/dataset/test/Oil Spill/OilSpill_00796.jpg,Oil Spill,0.9873092
+C:/Users/lavan/Downloads/dataset/test/Non Oil Spill/No_Oil_Spill00890.jpg,Non-Oil Spill,0.8658692538738251
+C:/Users/lavan/Downloads/dataset/test/Non Oil Spill/No_Oil_Spill00860.jpg,Non-Oil Spill,0.9838119279593229
